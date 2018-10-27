@@ -4,7 +4,7 @@ Python implementation of popular python commands
 #Commands supported
 history
 ls  
-pwd  
+pwd  //udhasdoiks
 cd  
 exit  
 cp  
